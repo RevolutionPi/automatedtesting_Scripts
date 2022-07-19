@@ -1,0 +1,10 @@
+/sys/class/leds
+├── a1_green -> ../../devices/platform/leds/leds/a1_green
+├── a1_red -> ../../devices/platform/leds/leds/a1_red
+├── a2_green -> ../../devices/platform/leds/leds/a2_green
+├── a2_red -> ../../devices/platform/leds/leds/a2_red
+├── default-on -> ../../devices/virtual/leds/default-on
+├── mmc0 -> ../../devices/virtual/leds/mmc0
+└── power_red -> ../../devices/platform/leds/leds/power_red
+
+7 directories, 0 files
