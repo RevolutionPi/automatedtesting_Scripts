@@ -5,7 +5,8 @@ source "Tests_Format.sh"
 TEST_NAME="Test Core ETH-3"
 Test_NOK=0
 
-IP_ATE="192.168.0.59"
+#IP_ATE="192.168.0.59"
+IP_ATE="192.168.168.73"
 
 TXT_OK="*** *** *** $TEST_NAME OK *** *** ***"
 TXT_NOK="*** *** *** $TEST_NAME NOK *** *** ***"

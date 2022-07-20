@@ -5,10 +5,10 @@ TEST_DELAY=5
 bash ./Core_ETH1.sh
 sleep $TEST_DELAY
 
-bash ./Core_ETH1.sh
+bash ./Core_ETH2.sh
 sleep $TEST_DELAY
 
-bash ./Core_ETH1.sh
+bash ./Core_ETH3.sh
 sleep $TEST_DELAY
 
 #Funktion USB
